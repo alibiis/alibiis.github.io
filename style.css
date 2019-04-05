@@ -46,6 +46,7 @@ header.startup h1 {
 }
 
 .btn-primary {
+  position: center;
   background-color: #f05f44;
   border-color: #f05f44;
 }
@@ -55,4 +56,9 @@ header.startup h1 {
   border-color: #ee4b08;
   border-width: 5px;
   cursor: pointer;
+}
+#mc_embed_signup {
+  padding: 0px 0px 0px 450px;
+  clear: left;
+  font: 14px Helvetica, Arial, sans-serif;
 }
